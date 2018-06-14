@@ -1,7 +1,7 @@
 <h4> Definições e Objetivos </h4>
 
 <p> Bem, o objetivo do projeto é desenvolver um sistema envolvendo o tratamento de imagens, visão computacional.</p>
-<p> A ideia é desenvolver um software capaz de detectar objetos e/ou pessoas e posteriormente fazer tratamento com essa detecção, ou seja, além de detectar o objeto será feito a trativa deste objeto determinado o seu tamanha, características, etc. Será feito também a contagem destes objetos.</p>
+<p> A ideia é desenvolver um software capaz de detectar objetos e/ou pessoas e posteriormente fazer tratamento com essa detecção, ou seja, além de detectar o objeto será feito a trativa deste objeto determinado o seu tamanho, características, etc. Será feito também a contagem destes objetos.</p>
 <p> Um exemplo de aplicação será a contagem de carros em um determinado trajeto.</p>
 
 <h4> O que vamos usar? </h4>
